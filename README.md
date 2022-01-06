@@ -79,6 +79,8 @@ add a new line
 ---
 add A 
 add B
+--
+uncommited line
 ### License: 
 
     Copyright (C) 2014-2018 Arpit Khurana <arpitkh96@gmail.com>
