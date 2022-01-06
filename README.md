@@ -81,6 +81,8 @@ add A
 add B
 --
 uncommited line
+--
+task1 added
 ### License: 
 
     Copyright (C) 2014-2018 Arpit Khurana <arpitkh96@gmail.com>
